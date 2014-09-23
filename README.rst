@@ -4,6 +4,8 @@
 
 ..  include::   /references.inc
 
+..  image:: https://travis-ci.org/rblack42/PyLitr6.svg?branch=master
+
 This is the *PyLit6* project, designed to create an environment that supports
 software development using Dr. Donald Knuth's :term:`Literate Programming`
 concepts (See :cite:`Knuth:1984:LP`). However, rather than simply recreating
