@@ -39,7 +39,17 @@ setup(
     scripts = ['scripts/pylit6'],
     packages = ['pylit6'],
     classifiers=[
+        'Development Status :: 2 - Pre-Alpha',
         'License :: OSI Approved :: BSD License',
+        'Operating System :: OS Independent',
+        'Programming Language :: Python',
+        'Programming Language :: Python :: 2.7',
+        'Framework :: Flask',
+        'Natural Language :: English',
+        'Intended Audience :: Developers',
+        'Intended Audience :: Education',
+        'Intended Audience :: Science/Research',
+        'Topic :: Software Development :: Documentation',
     ],
 )
 
