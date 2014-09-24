@@ -11,11 +11,11 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
 ..  image:: https://coveralls.io/repos/rblack42/PyLit6/badge.png?branch=master
     :target: https://coveralls.io/r/rblack42/PyLit6
 
-..  image:: https://pypip.in/version/PyLit6/badge.svg
+..  image:: https://pypip.in/version/PyLit6/badge.png
     :target: https://pypi.python.org/pypi/pylit6/
     :alt: Latest Version
      
-..  image:: https://pypip.in/license/PyLit6/badge.svg
+..  image:: https://pypip.in/license/PyLit6/badge.png
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
 
