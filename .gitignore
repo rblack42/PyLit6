@@ -24,6 +24,7 @@ _venv
 build
 dist
 sdist
+PyLit6.egg-info
 
 # Sphinx
 docs/_build
