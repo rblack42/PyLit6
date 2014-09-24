@@ -1,5 +1,14 @@
 # Python
-*.pyc
+*.py[cod]
+
+# Packages
+*.egg
+*.tar.gz
+*.zip
+
+# Tests/Coverage
+.coverage
+.tox
 
 # virtualenv
 _venv
@@ -13,3 +22,8 @@ _venv
 
 # distutils
 build
+dist
+sdist
+
+# Sphinx
+docs/_build

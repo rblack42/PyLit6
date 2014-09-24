@@ -1,3 +1,5 @@
+PyLit6 - A Literate Programming Tool Using reStructuredText
+###########################################################
 
 :author: Roie Black
 :version: 0.1-dev
@@ -6,18 +8,26 @@
 
 ..  image:: https://travis-ci.org/rblack42/PyLit6.svg?branch=master
 
+..  image:: https://pypip.in/v/pylit6/badge.png
+    :target: https://pypi.python.org/pypi/pylit6/
+    :alt: Latest Version
+    :
+..  image:: https://pypip.in/license/pylit6/badge.png
+    :target: http://pypi.python.org/pypi/pylit6/
+    :alt: License
+
 This is the *PyLit6* project, designed to create an environment that supports
 software development using Dr. Donald Knuth's :term:`Literate Programming`
-concepts (See :cite:`Knuth:1984:LP`). However, rather than simply recreating
-Dr. Knuth's ideas for this kind of development process, I have added a few
-ideas of my own, all of which stem from my teaching work, and my goal to
-produce students familiar with modern tools used in software engineering, and
+concepts (See :cite:`Knuth:1984:LP`). However, rather than simply building a
+tool that recreates Dr. Knuth's ideas, I have added a few ideas of my own.
+These additions to |LP| are based on my teaching work, and my goal to produce
+students who are familiar with modern tools used in software engineering, and
 who are ready to produce code worthy of including in real-world projects.
 
 Project History
 ***************
 
-The PyLit project began as a personal research project when Dr. Knuth's first
+The PyLit_ project began as a personal research project when Dr. Knuth's first
 papers on |LP| were published in 1984. I was then, and remain today,
 convinced that |LP| had a real place in the academic world, even if it did take
 off as a mainstream development technique. At the time, I was serving in the
@@ -40,8 +50,8 @@ used in academia.  Over the years, I switched to C, then C++. In 2003, the
 development language switched again to Python, and I renamed the project to
 PyLit_, a contraction of "Python Literate Programming". The first Python
 version of the PyLit_ software was written in 2003 as part of my master's
-thesis project in software engineering at Texas State University See
-:cite:`Black:2005`. (My first degrees were in Aerospace Engineering, but I
+thesis project in software engineering at Texas State University (see
+:cite:`Black:2005`). (My first degrees were in Aerospace Engineering, but I
 wanted to get back into teaching computer science after retiring from the
 USAF). The software went live on the Internet in 2004, and I registered two
 domains to support further work: `pylit.org` in 2005 for the core project, and
@@ -55,7 +65,8 @@ developers spent their time and ended up with a management tool based on the
 `Personal Software Process` and `Team Software Process` concepts popular at the
 time. 
 
-Today, PyLit_ is still a web application, but has now been recrafted using Flask_ and reStructuredTExt_, with a little help from Git_.
+Today, PyLit_ is still a web application, but has now been reengineered using
+Flask_ and reStructuredText_, with a little help from Git_.
 
 For more information on the project, contact the author.
 

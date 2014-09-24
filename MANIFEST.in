@@ -1,0 +1,15 @@
+graft docs
+graft pylit6
+graft tests
+
+include .travis.yml
+include .coveragerc
+
+include Makefile
+include tox.ini
+include README.rst
+include *.txt
+include *.rst
+include *.in
+
+global-exclude *.py[co] __pycache__
