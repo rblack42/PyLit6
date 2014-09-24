@@ -8,6 +8,9 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
 
 ..  image:: https://travis-ci.org/rblack42/PyLit6.svg?branch=master
 
+..  image:: https://coveralls.io/repos/rblack42/PyLit6/badge.png?branch=master
+    :target: https://coveralls.io/r/rblack42/PyLit6
+
 ..  image:: https://pypip.in/version/PyLit6/badge.svg
     :target: https://pypi.python.org/pypi/pylit6/
     :alt: Latest Version
@@ -16,7 +19,7 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
 
-.. image:: https://pypip.in/py_versions/<PyLit6>/badge.svg
+.. image:: https://pypip.in/py_versions/PyLit6/badge.svg
     :target: https://pypi.python.org/pypi/PyLit6/
     :alt: Supported Python versions
 
