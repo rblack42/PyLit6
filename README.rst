@@ -16,6 +16,11 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
 
+.. image:: https://pypip.in/py_versions/<PyLit6>/badge.svg
+    :target: https://pypi.python.org/pypi/PyLit6/
+    :alt: Supported Python versions
+
+
 This is the *PyLit6* project, designed to create an environment that supports
 software development using Dr. Donald Knuth's :term:`Literate Programming`
 concepts (See :cite:`Knuth:1984:LP`). However, rather than simply building a

@@ -38,5 +38,8 @@ setup(
     license=about.__license__,
     scripts = ['scripts/pylit6'],
     packages = ['pylit6'],
+    classifiers=[
+        'License :: OSI Approved :: BSD License',
+    ],
 )
 
