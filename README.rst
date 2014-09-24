@@ -8,11 +8,11 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
 
 ..  image:: https://travis-ci.org/rblack42/PyLit6.svg?branch=master
 
-..  image:: https://pypip.in/v/pylit6/badge.png
+..  image:: https://pypip.in/version/pylit6/badge.svg
     :target: https://pypi.python.org/pypi/pylit6/
     :alt: Latest Version
     :
-..  image:: https://pypip.in/license/pylit6/badge.png
+..  image:: https://pypip.in/license/pylit6/badge.svg
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
 
