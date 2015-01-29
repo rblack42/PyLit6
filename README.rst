@@ -19,6 +19,10 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
 
+..  image:: https://circleci.com/gh/rblack42/PyLit6.svg?style=svg
+    :target: https://circleci.com/gh/rblack42/PyLit6
+    :alt: Circle CI STatus
+
 .. image:: https://pypip.in/py_versions/PyLit6/badge.svg
     :target: https://pypi.python.org/pypi/PyLit6/
     :alt: Supported Python versions
