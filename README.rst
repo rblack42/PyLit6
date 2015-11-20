@@ -6,24 +6,24 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
 
 ..  include::   /references.inc
 
-..  image:: https://travis-ci.org/rblack42/PyLit6.svg?branch=master
+..  image:: https://img.shields.io/travis/rblack42/PyLit6.svg
 
-..  image:: https://coveralls.io/repos/rblack42/PyLit6/badge.png?branch=master
+..  image:: https://img.shields.io/coveralls/coveralls.io/PyLit6/PyLit6.svg
     :target: https://coveralls.io/r/rblack42/PyLit6
 
-..  image:: https://pypip.in/version/PyLit6/badge.png
+..  image:: https://img.shields.io/pypi/v/PyLit6.svg
     :target: https://pypi.python.org/pypi/pylit6/
     :alt: Latest Version
      
-..  image:: https://pypip.in/license/PyLit6/badge.png
+..  image:: https://img.shields.io/pypi/l/PyLit6.svg
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
 
-..  image:: https://circleci.com/gh/rblack42/PyLit6.svg?style=svg
+..  image:: https://img.shields.io/circleci/project/PyLit6.svg
     :target: https://circleci.com/gh/rblack42/PyLit6
-    :alt: Circle CI STatus
+    :alt: Circle CI Status
 
-.. image:: https://pypip.in/py_versions/PyLit6/badge.svg
+.. image:: https://img.shields.io/ppypi/pyversions/PyLit6.svg
     :target: https://pypi.python.org/pypi/PyLit6/
     :alt: Supported Python versions
 
@@ -80,12 +80,14 @@ time.
 Today, PyLit_ is still a web application, but has now been reengineered using
 Flask_ and reStructuredText_, with a little help from Git_.
 
-For more information on the project, contact the author.
+For more information on the project, contact the author::
 
-Roie Black
-Professor, Computer Science
-Austin Community College
-Austin, Texas
+    Roie Black
+    Professor, Computer Science
+    Austin Community College
+    Austin, Texas
 
-email: rblack@austincc.edu
-web: www.austincc.edu/rblack
+    email: rblack@austincc.edu
+    web: www.austincc.edu/rblack
+
+..  vim:filetype=rst spell:
