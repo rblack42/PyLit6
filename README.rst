@@ -4,9 +4,10 @@ PyLit6 - A Literate Programming Tool
 
 ..  image:: https://img.shields.io/travis/rblack42/PyLit6.svg
 
-..  image:: https://img.shields.io/coveralls/PyLit6/PyLit6.svg
-    :target: https://coveralls.io/r/rblack42/PyLit6
-
+..  image:: https://coveralls.io/repos/rblack42/PyLit6/badge.svg?branch=master&service=github 
+    :target: https://coveralls.io/github/rblack42/PyLit6?branch=master
+    :alt: Coverage Status
+    
 ..  image:: https://img.shields.io/pypi/v/PyLit6.svg
     :target: https://pypi.python.org/pypi/pylit6/
     :alt: Latest Version
@@ -14,10 +15,6 @@ PyLit6 - A Literate Programming Tool
 ..  image:: https://img.shields.io/pypi/l/PyLit6.svg
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
-
-..  image:: https://img.shields.io/circleci/project/PyLit6/PHP.Gt.svg
-    :target: https://circleci.com/gh/rblack42/PyLit6
-    :alt: Circle CI Status
 
 ..  image:: https://img.shields.io/pypi/pyversions/PyLit6.svg
     :target: https://pypi.python.org/pypi/PyLit6/

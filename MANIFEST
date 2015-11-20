@@ -3,6 +3,7 @@
 .travis.yml
 CHANGES.rst
 HISTORY.rst
+INSTALL.rst
 MANIFEST
 MANIFEST.in
 Makefile
