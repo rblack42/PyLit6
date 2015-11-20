@@ -8,7 +8,7 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
 
 ..  image:: https://img.shields.io/travis/rblack42/PyLit6.svg
 
-..  image:: https://img.shields.io/coveralls/coveralls.io/PyLit6/PyLit6.svg
+..  image:: https://img.shields.io/coveralls/PyLit6/PyLit6.svg
     :target: https://coveralls.io/r/rblack42/PyLit6
 
 ..  image:: https://img.shields.io/pypi/v/PyLit6.svg
@@ -23,7 +23,7 @@ PyLit6 - A Literate Programming Tool Using reStructuredText
     :target: https://circleci.com/gh/rblack42/PyLit6
     :alt: Circle CI Status
 
-.. image:: https://img.shields.io/ppypi/pyversions/PyLit6.svg
+.. image:: https://img.shields.io/pypi/pyversions/PyLit6.svg
     :target: https://pypi.python.org/pypi/PyLit6/
     :alt: Supported Python versions
 
