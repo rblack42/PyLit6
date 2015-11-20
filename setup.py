@@ -1,4 +1,4 @@
-# -*- codeing: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
     setup
     ~~~~~
@@ -24,7 +24,6 @@ class PyTest(Command):
         errno = subprocess.call([sys.executable, 'runtests.py'])
         raise SystemExit(errno)
 
-
 import pylit6.__about__ as about
 
 setup(
@@ -38,12 +37,28 @@ setup(
     license=about.__license__,
     scripts = ['scripts/pylit6'],
     packages = ['pylit6'],
+    install_requires=[
+        "Flask",
+        "Sphinx>=1.3"
+    ],
+    extras_require = {
+        'docs': [
+            'sphinx-rtd-theme',
+        ],
+        'test': [
+            'nose',
+            'coverage',
+            'pep8',
+            'pyflakes',
+        ],
+    },
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.5',
         'Framework :: Flask',
         'Natural Language :: English',
         'Intended Audience :: Developers',
