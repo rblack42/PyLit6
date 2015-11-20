@@ -64,7 +64,7 @@ setup(
         'Intended Audience :: Developers',
         'Intended Audience :: Education',
         'Intended Audience :: Science/Research',
-        'Topic :: Software Development :: Documentation',
-    ],
+        'Topic :: Software Development :: Documentation'
+    ]
 )
 

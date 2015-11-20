@@ -15,7 +15,7 @@ PyLit6 - A Literate Programming Tool
     :target: http://pypi.python.org/pypi/pylit6/
     :alt: License
 
-..  image:: https://img.shields.io/circleci/project/PyLit6.svg
+..  image:: https://img.shields.io/circleci/project/PyLit6/PHP.Gt.svg
     :target: https://circleci.com/gh/rblack42/PyLit6
     :alt: Circle CI Status
 
